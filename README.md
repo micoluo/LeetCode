@@ -16,11 +16,11 @@ To push your Java code to GitHub from a Mac, follow these steps:
    - Open the `.gitignore` file with Nano or any text editor:
      nano .gitignore
    - Add the following lines to the `.gitignore` file:
-     .DS_Store          # macOS specific files
-     .bin/              # Compiled binary files
-     .classpath         # Eclipse specific files
-     .project           # Eclipse specific files
-     .settings/         # Eclipse specific files
+     - **`.DS_Store`**: macOS-specific file that stores folder customizations.
+     - **`.bin/`**: Directory containing compiled binary files.
+     - **`.classpath`**: Eclipse-specific file for classpath settings.
+     - **`.project`**: Eclipse-specific file for project metadata.
+     - **`.settings/`**: Directory containing Eclipse-specific settings.
    - Save and exit (in Nano: Press `Ctrl + X`, then `Y` to confirm, and press `Enter`).
 
 4. Add, Commit, Connect, and Push:
