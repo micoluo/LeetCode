@@ -1,4 +1,4 @@
-# This respiratory includes my LeetCode practice. 
+# This respiratory includes my LeetCode practice and provides an instruction for anybody new to GitHub.
 
 ## Pushing Java Code using Terminal (Mac)
 
