@@ -7,7 +7,7 @@ To push your Java code to GitHub from a Mac, follow these steps:
 1. Navigate to Your Project Directory:
    cd /path/to/your/project
 
-2. Initialize a Git Repository:
+2. Initialize a Local Git Repository:
    git init
 
 3. Create a `.gitignore` File:
@@ -43,6 +43,7 @@ To push your Java code to GitHub from a Mac, follow these steps:
 
 ## Push Java Code using Eclipse:
 Check out this YouTube: https://www.youtube.com/watch?app=desktop&v=LPT7v69guVY
+
 Make sure using token rather than password:
 1. login to your GitHub account
 2. go to https://github.com/settings/tokens
@@ -53,3 +54,5 @@ Make sure using token rather than password:
 7. use this token instead of a password in the eclipse or other tools you are using
 
 
+## Delete a Local Respiratory
+- rm -rf .git
