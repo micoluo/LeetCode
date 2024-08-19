@@ -1,6 +1,5 @@
 # This respiratory includes my LeetCode practice. 
 
-## For anybody new to GitHub 
 ## Pushing Java Code using Terminal (Mac)
 
 To push your Java code to GitHub from a Mac, follow these steps:
