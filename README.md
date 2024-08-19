@@ -1,6 +1,6 @@
 # This respiratory includes my LeetCode practice. 
 
-## Pushing Java Code to GitHub (Mac)
+## Pushing Java Code using Terminal (Mac)
 
 To push your Java code to GitHub from a Mac, follow these steps:
 
@@ -39,3 +39,17 @@ To push your Java code to GitHub from a Mac, follow these steps:
      git commit -m "Update"
    - Push the updates to the `main` branch:
      git push origin main
+
+
+## Push Java Code using Eclipse:
+Check out this YouTube: https://www.youtube.com/watch?app=desktop&v=LPT7v69guVY
+Make sure using token rather than password:
+1. login to your GitHub account
+2. go to https://github.com/settings/tokens
+3. click on "Generate new token"
+4. make necessary selections (but must select repo)
+5. click on "save"
+6. System will have a token
+7. use this token instead of a password in the eclipse or other tools you are using
+
+
