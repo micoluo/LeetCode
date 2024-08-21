@@ -29,7 +29,7 @@ To push your Java code to GitHub from a Mac, follow these steps:
    - Commit the changes:
      git commit -m "First commit"
    - Add the remote repository URL:
-     git remote add origin <repository>
+     git remote add origin https://github.com/username/repository.git
    - Push the changes to the `main` branch:
      git push origin main
 
