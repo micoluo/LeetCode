@@ -41,6 +41,10 @@ To push your Java code to GitHub from a Mac, follow these steps:
    - Push the updates to the `main` branch:
      git push origin main
 
+6. Fetch the latest changes from the remote and merge them into your local branch:
+     git pull origin main
+
+
 
 ## Push Java Code using Eclipse:
 Check out this YouTube video: https://www.youtube.com/watch?app=desktop&v=LPT7v69guVY
