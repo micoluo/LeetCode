@@ -58,6 +58,3 @@ Make sure using token rather than password:
 6. System will have a token
 7. use this token instead of a password in the eclipse or other tools you are using
 
-
-## Delete a Local Respiratory
-- rm -rf .git
